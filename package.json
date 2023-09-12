@@ -1,0 +1,21 @@
+{
+    "name": "DyahUK",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "vitepress dev --host 0.0.0.0",
+        "build": "vitepress build",
+        "preview": "vitepress preview"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "module",
+    "devDependencies": {
+        "vitepress": "^1.0.0-rc.10",
+        "globby": "^13.2.0",
+        "gray-matter": "^4.0.3",
+        "fs-extra": "^11.1.1"
+    }
+}
