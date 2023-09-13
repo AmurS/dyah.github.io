@@ -13,7 +13,7 @@ export default defineConfig({
     appearance: 'dark',
     themeConfig: {
         posts: await getPosts(pageSize),
-        website: 'https://dyah.github.io', //copyright link
+        website: 'https://dyah.rkgk.my.id', //copyright link
         // 评论的仓库地址
         comment: {
             repo: 'airene/vitepress-blog-pure',
