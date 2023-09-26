@@ -5,7 +5,7 @@ tags:
 - Catatan
 description: Menikmati bekal dari ibu adalah waktu yang ditunggu-tunggu.
 ---
-# Bekal dari Ibu
+## Bekal dari Ibu
 
 ![image](/public/image14.jpeg){ width="600" height="600" style="display: block; margin: 0 auto" }
 
